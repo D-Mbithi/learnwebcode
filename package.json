@@ -1,0 +1,24 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "Course work for Learn Web Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D-Mbithi/learnwebcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D-Mbithi/learnwebcode/issues"
+  },
+  "homepage": "https://github.com/D-Mbithi/learnwebcode#readme",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "normalize.css": "^8.0.1"
+  }
+}
